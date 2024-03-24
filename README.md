@@ -15,5 +15,5 @@ Soy un desarrollador backend apasionado por la tecnología y la creación de sol
 
 Me encantaría conectarme contigo! Aquí están algunas maneras:
 
-- [Contacto](#)
+- [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
 
