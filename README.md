@@ -20,15 +20,16 @@ Me encantaría conectarme contigo! Aquí están algunas maneras:
 - [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
 
 - ## Más:Tecnologías y Herramientas
-- - **🐍 Python:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 - **🌐 Desarrollo Web:**
   - HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   - CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - Vue.js ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+- **🐍 Desarrollo Web con Python:**
+  - Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  - Django ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - **📊 Análisis de Datos:**
   - Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -52,4 +53,18 @@ Me encantaría conectarme contigo! Aquí están algunas maneras:
   - Kubernetes ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   - Jenkins ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   - Git/GitHub ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Contacto
+
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mis redes sociales o por correo electrónico. Estoy siempre abierto a nuevas oportunidades y desafíos.
+
+- **Correo Electrónico:** [tu-email@example.com](mailto:tu-email@example.com)
+- **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)
+- **Twitter:** [@tu_usuario_twitter](https://twitter.com/tu_usuario_twitter)
+
+¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
+
+---
+
+*[Visita mi sitio web personal](https://www.tu-sitio-web.com) para más información sobre mis trabajos y publicaciones.*
 
