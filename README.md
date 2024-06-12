@@ -12,13 +12,6 @@
 
 Actualmente, estoy inmerso en un emocionante proyecto de Inteligencia Artificial generativa utilizando Python.
   
-
-## ¿Cómo conectamos?
-
-Me encantaría conectarme contigo! Aquí están algunas maneras:
-
-- [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
-
 - ## Más:Tecnologías y Herramientas
 - **🌐 Desarrollo Web:**
   - HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,13 +51,14 @@ Me encantaría conectarme contigo! Aquí están algunas maneras:
 
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mis redes sociales o por correo electrónico. Estoy siempre abierto a nuevas oportunidades y desafíos.
 
-- **Correo Electrónico:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)
-- **Twitter:** [@tu_usuario_twitter](https://twitter.com/tu_usuario_twitter)
+- **Correo Electrónico:** [tu-email@example.com](mailto:info@javiermorron.com)
+- **LinkedIn:** - [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
+- **Twitter:** [twitter](https://twitter.com/@javierma731)
+- **Instagramm:**[instagram](https://www.instagram.com/javiermorron.tech/)
 
 ¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
 
 ---
 
-*[Visita mi sitio web personal](https://www.tu-sitio-web.com) para más información sobre mis trabajos y publicaciones.*
+*[Visita mi sitio web personal](https://javiermorron.com) para más información sobre mis trabajos y publicaciones.*
 
