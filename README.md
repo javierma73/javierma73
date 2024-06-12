@@ -51,10 +51,10 @@ Actualmente, estoy inmerso en un emocionante proyecto de Inteligencia Artificial
 
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme a través de mis redes sociales o por correo electrónico. Estoy siempre abierto a nuevas oportunidades y desafíos.
 
-- **Correo Electrónico:** [tu-email@example.com](mailto:info@javiermorron.com)
-- **LinkedIn:** - [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
-- **Twitter:** [twitter](https://twitter.com/@javierma731)
-- **Instagramm:**[instagram](https://www.instagram.com/javiermorron.tech/)
+- [Correo Electrónico](mailto:info@javiermorron.com)
+- [LinkedIn](https://www.linkedin.com/in/javier-morr%C3%B3n-desarrollador-software/)
+- [twitter](https://twitter.com/@javierma731)
+- [instagram](https://www.instagram.com/javiermorron.tech/)
 
 ¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
 
