@@ -10,7 +10,7 @@
 - **📊 Análisis de Datos** 
 - **🤖 Machine Learning**
 
-# Actualmente, estoy inmerso en un emocionante proyecto de Inteligencia Artificial generativa utilizando Python.
+Actualmente, estoy inmerso en un emocionante proyecto de Inteligencia Artificial generativa utilizando Python.
   
 
 ## ¿Cómo conectamos?
