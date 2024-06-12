@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador backend apasionado por la tecnología y la creación de soluciones innovadoras. Con experiencia en Python, Node.js, bases de datos SQL y NoSQL, busco constantemente ampliar mis conocimientos y habilidades en el mundo del desarrollo. Amante de los retos y del aprendizaje continuo, estoy siempre listo para enfrentar nuevos proyectos que me permitan crecer profesionalmente.
+Soy Licenciado en Informática con +20 años de experiencia en el sector. Durante mi carrera, he trabajado en diversas áreas de la informática, adquiriendo un conocimiento profundo y una experiencia significativa en el campo. En los últimos 5 años, he centrado mi carrera en la programación en Python, lo que me ha permitido desarrollar habilidades especializadas en:
 
 ## Tecnologías y Herramientas
 
